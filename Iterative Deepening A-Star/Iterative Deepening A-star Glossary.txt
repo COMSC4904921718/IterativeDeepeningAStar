@@ -1,0 +1,9 @@
+Priority Queue - Queue that orders its items by some priority, for example, cost, before ordering by when the item came into the queue.
+Graph - Set of connected nodes.
+Dequeue(min) - Takes off the item in the queue with the lowest cost.
+Visited - Set of nodes that have been examined.
+Neighbors - Nodes that have a direct path to one another.
+Goal - Node the algorithm is looking for.
+Heuristic - Predefined value that acts like another cost. For example, the cost from the start of a maze to the end if there were no walls.
+g(x) - path cost from start to node.
+thresh - value that we compare our costs to to determine our next step.
